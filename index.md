@@ -35,7 +35,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 - **Jan. 2025:** Had an Interesting [Social Research Experience](https://mp.weixin.qq.com/s/yd-zVDKVndfbu3-NhTd25w) in BaoDing, Hebei 📊🌍
 - **Dec. 2024:** Complete the GAUC & AUA [2024 Climate X Leadership Training Program](https://climatexleadership.gauc.net/) and Be Recognized as a Climate X Youth Pioneer 🌍🌱
 - **Dec. 2024:** Honored to be Recognized as Peking University’s [Youth Volunteer Model](https://mp.weixin.qq.com/s/ra3o0s9qd-mLGmQGJNhHgg) for 2023-2024 🌟🙌
-- **Dec. 2024:** [Welcome Rt. Hon. Mr. KP Sharma Oil (Prime Minister of Nepal) to PKU!](https://mp.weixin.qq.com/s/WUVGb7_L2OZJl650MKDl-A)Honored to Represent Students in Discussing Plateau Energy Issues with the Prime Minister 🌍💡
+- **Dec. 2024:** [Welcome Rt. Hon. Mr. KP Sharma Oil (Prime Minister of Nepal) to PKU!](https://mp.weixin.qq.com/s/WUVGb7_L2OZJl650MKDl-A) Honored to Represent Students in Discussing Plateau Energy Issues with the Prime Minister 🌍💡
 - **Oct. 2024:** Honored to Represent Chinese Youth at the [PKU-Science Po Climate Week Opening Ceremony Youth Panel](https://mp.weixin.qq.com/s/8GXoycxi-9xQ5Zu3ZpFRZw) 🌍🎤
 - **Oct. 2024:** Happy to Have Won 6th Place in High Jump at the School Sports Meet 🏅🙌
 - **Sep. 2024:** Honored to Serve as a Committee Member for [the 4th Global Youth Zero Carbon Future Summit](https://mp.weixin.qq.com/s/7aIqSwDUxNIwywNwtG7tmw) – Wishing the Summit Great Success! 🌍💫
