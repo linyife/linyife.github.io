@@ -39,6 +39,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 - **Oct. 2024:** Honored to Represent Chinese Youth at the [PKU-Science Po Climate Week Opening Ceremony Youth Panel](https://mp.weixin.qq.com/s/8GXoycxi-9xQ5Zu3ZpFRZw) 🌍🎤
 - **Oct. 2024:** Happy to Have Won 6th Place in High Jump at the School Sports Meet 🏅🙌
 - **Sep. 2024:** Honored to Serve as a Committee Member for [the 4th Global Youth Zero Carbon Future Summit](https://mp.weixin.qq.com/s/7aIqSwDUxNIwywNwtG7tmw) – Wishing the Summit Great Success! 🌍💫
+- **Sep. 2024:** Represented the Netherlands at Tsinghua University's 9th Model United Nations Climate Change Conference([MCCCOP9](https://mp.weixin.qq.com/s/dC7_-TMm2Tm1mYYUOiizlw)) 🌍🎤
 - **Sep. 2024:** A Delightful [Practice Journey](https://mp.weixin.qq.com/s/ybsIo6xyucLx1z2zIpwFHw) in Hong Kong ✨
 - **Aug. 2024:** Gained Valuable Insights at [the 2nd Carbon Neutrality Comprehensive Assessment Model Seminar at Peking University](https://mp.weixin.qq.com/s/UdXDfivj4Osk7PHq4LT4oA) 🌱🎓
 - **Aug. 2024:** Deeply honored to serve as the teacher for the [2024 Peking University Summer Camp for Outstanding High School Students](https://mp.weixin.qq.com/s/Lc0FcZI211zlOK1AfMFZYg). 😊
