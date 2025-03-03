@@ -32,6 +32,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 
 ## News and Updates
 
+- **Feb. 2025:** Successfully completed the 2024 Certifcate Program for International OrganizationTalents from September 2024 to January 2025 at Peking University.🌍🎓
 - **Jan. 2025:** Had an Interesting [Social Research Experience](https://mp.weixin.qq.com/s/yd-zVDKVndfbu3-NhTd25w) in BaoDing, Hebei 📊🌍
 - **Dec. 2024:** Complete the GAUC & AUA [2024 Climate X Leadership Training Program](https://climatexleadership.gauc.net/) and Be Recognized as a Climate X Youth Pioneer 🌍🌱
 - **Dec. 2024:** Honored to be Recognized as Peking University’s [Youth Volunteer Model](https://mp.weixin.qq.com/s/ra3o0s9qd-mLGmQGJNhHgg) for 2023-2024 🌟🙌
