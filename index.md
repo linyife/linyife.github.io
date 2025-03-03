@@ -10,7 +10,7 @@ Here is **Yifei Lin (Forwood, 林奕妃)**.<br>
 
 I am an undergraduate student in the [**College of Environmental Sciences and Engineering**](College of Environmental Sciences and Engineering) at **Peking University**, pursuing a **Bachelor of Science (B.Sc.) in Environmental Science**.<br>
 
- I am also completing a double degree in **Energy and Environmental Systems Engineering (B.Eng.)** at the [**College of Engineering**]([Welcome to College of Engineering - Peking University](https://en.coe.pku.edu.cn/)), **Peking University**.<br>
+ I am also pursuing a double degree in **Energy and Environmental Systems Engineering (B.Eng.)** at the [**College of Engineering**]([Welcome to College of Engineering - Peking University](https://en.coe.pku.edu.cn/)), **Peking University**.<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yflin [at] stu.pku.end.cn
 
