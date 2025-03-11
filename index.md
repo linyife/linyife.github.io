@@ -32,6 +32,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 
 ## News and Updates
 
+- **Mar. 2025:** Our Peking University Rural Ecological Practice Team in Wangdu, Baoding, Hebei, Wins the Outstanding Project Award 🌿🏆
 - **Feb. 2025:** Successfully completed the 2024 Certifcate Program for International Organization Talents from September 2024 to January 2025 at Peking University.🌍🎓
 - **Jan. 2025:** Had an Interesting [Social Research Experience](https://mp.weixin.qq.com/s/yd-zVDKVndfbu3-NhTd25w) in BaoDing, Hebei 📊🌍
 - **Dec. 2024:** Complete the GAUC & AUA [2024 Climate X Leadership Training Program](https://climatexleadership.gauc.net/) and Be Recognized as a Climate X Youth Pioneer 🌍🌱
