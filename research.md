@@ -44,4 +44,14 @@ This study focuses on the implementation of China's Ecological Protection Compen
 
 Responsible for compiling the ecological protection compensation policies and measures in Shandong Province, and for analyzing the air quality compensation measures and the inter-provincial watershed compensation mechanisms.
 
+- **Analysis of the Impact Mechanism of Indoor and Outdoor Air Pollution Under the Rural "Coal-to-Gas" Policy in Baoding City—An Empirical Study Based on Dual Perspectives of Regional Response and Farmer Behavior**
+
+Challenge Cup Special Contribution Project — Collaboratively Completed 
+
+* *January 2025 - March 2025*
+
+This research primarily analyzes the changes in air pollutants in Baoding's atmosphere following the implementation of the clean heating policy, as well as variations in indoor air pollutant concentrations in rural households due to individual behavioral differences. It involves assessing the regional environmental governance effects brought about by policy implementation and analyzing indoor air pollution resulting from farmers' behavioral patterns.
+
+Responsibilities included conducting long-term time-series analysis of air quality monitoring data in rural Baoding, evaluating the effectiveness of the "coal-to-gas" policy using breakpoint and cumulative effect analyses, performing correlation analysis on influencing factors of Baoding's atmospheric environment, and discussing the short-term and long-term impacts of policy implementation.
+
 ---
