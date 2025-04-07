@@ -44,6 +44,15 @@ This study focuses on the implementation of China's Ecological Protection Compen
 
 Responsible for compiling the ecological protection compensation policies and measures in Shandong Province, and for analyzing the air quality compensation measures and the inter-provincial watershed compensation mechanisms.
 
+- **Distribution and Risk Assessment of Organic Matter and Heavy Metals in Sediments from Saihanba Water Systems**
+
+Comprehensive Environmental Internship II Project — Collaboratively Completed  
+*July 2024 - August 2024*
+
+This study collected sediment samples from various rivers and lakes in the Saihanba region, with a focus on analyzing heavy metals and total organic carbon (TOC), while also documenting basic physicochemical properties such as pH. The distribution characteristics of heavy metals and TOC in the sediments were discussed, revealing significant variations among sampling points. Correlation analysis of different indicators showed strong relationships between specific heavy metal pairs: Cu-Cr, Pb-Cu, and As-Cu. A notable correlation was also observed between TOC in overlying water and surface water. Additionally, the analysis indicated that high TOC content in sediments promotes Zn deposition. Finally, based on the collected data and analytical results, ecological assessments of the Saihanba river and lake sediments were conducted using the Geo-accumulation Index (Igeo), Nemerow Comprehensive Pollution Index, and Potential Ecological Risk Index. The evaluation concluded that all measured indicators present low ecological risks.
+
+Responsible for overlying water filtration/dilution, TOC measurement, heavy metal-TOC correlation analysis, data compilation, PPT/social media/poster/video production, and correlation analysis section writing.
+
 - **Analysis of the Impact Mechanism of Indoor and Outdoor Air Pollution Under the Rural "Coal-to-Gas" Policy in Baoding City—An Empirical Study Based on Dual Perspectives of Regional Response and Farmer Behavior**
 
 Challenge Cup Special Contribution Project — Collaboratively Completed 
