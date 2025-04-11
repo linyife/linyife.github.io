@@ -12,9 +12,9 @@ I am an undergraduate student in the [**College of Environmental Sciences and En
 
  I am also pursuing a double degree in **Energy and Environmental Systems Engineering (B.Eng.)** at the [**College of Engineering**]([Welcome to College of Engineering - Peking University](https://en.coe.pku.edu.cn/)), **Peking University**.<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yflin [at] stu.pku.end.cn
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yflin [at] stu.pku.end.cn<br>
 
-**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
+**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**<br>
 
 ---
 
@@ -24,9 +24,9 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Environmental-Economic-Energy Systems Modeling
 - Feasibility Analysis of Net-Zero Emissions
 
-My current research focuses on the feasibility analysis of achieving net-zero emissions in the Qinghai-Tibet Plateau, a region of critical ecological and climatic significance.  With a dual degree in Environmental Science and Energy & Environmental Systems Engineering, I combine problem-driven environmental research with technology-driven engineering solutions to address this complex challenge.
+My current research focuses on the feasibility analysis of achieving net-zero emissions in the Qinghai-Tibet Plateau, a region of critical ecological and climatic significance.  With a dual degree in Environmental Science and Energy & Environmental Systems Engineering, I combine problem-driven environmental research with technology-driven engineering solutions to address this complex challenge.<br>
 
-I am committed to becoming a versatile researcher who can contribute to innovative solutions for global sustainability.  My ultimate goal is to use my skills and knowledge to promote well-being and a sustainable future, starting with the fragile yet vital ecosystems of the Qinghai-Tibet Plateau.
+I am committed to becoming a versatile researcher who can contribute to innovative solutions for global sustainability.  My ultimate goal is to use my skills and knowledge to promote well-being and a sustainable future, starting with the fragile yet vital ecosystems of the Qinghai-Tibet Plateau.<br>
 
 ---
 
