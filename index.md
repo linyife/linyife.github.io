@@ -32,6 +32,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 
 ## News and Updates
 
+- **Apr. 2025:** Beyond Boundary Program-[HAPPY HOUR#3]([BBP · 交流 | HAPPY HOUR #3 Special Guest: Dr. Imad El Haddad](https://mp.weixin.qq.com/s/L1_yDpQcEFiSdjIjz7rSlQ)) 😊🎶
 - **Mar. 2025:** Our Peking University Rural Ecological Practice Team in Wangdu, Baoding, Hebei, Wins the Outstanding Project Award 🌿🏆
 - **Feb. 2025:** Successfully completed the 2024 Certifcate Program for International Organization Talents from September 2024 to January 2025 at Peking University.🌍🎓
 - **Jan. 2025:** Had an Interesting [Social Research Experience](https://mp.weixin.qq.com/s/yd-zVDKVndfbu3-NhTd25w) in BaoDing, Hebei 📊🌍
@@ -49,7 +50,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 - **Jul. 2024:** A Fun Week of Metalworking Practice in Changping 🔧✨
 - **May. 2024:** Thrilled that Our Research Won the Second Prize in the 32nd Challenge Cup Interdisciplinary Track at Peking University 🏆🎉
 - **May. 2024:** [Field Trip](https://mp.weixin.qq.com/s/3nC5QFckLrWTwFHs5da2PA) to Zhejiang for the Atmospheric Aerosol Measurement Techniques and Experiment Course 🌍🔬
-- **Apr. 2024:** Beyond Boundary Program-[HAPPY HOUR](https://mp.weixin.qq.com/s/OecrONQ085NNzILOXmAiWQ) 😊🎶
+- **Apr. 2024:** Beyond Boundary Program-[HAPPY HOUR#1](https://mp.weixin.qq.com/s/OecrONQ085NNzILOXmAiWQ) 😊🎶
 - **Apr. 2024:** [Proud Moment: Our Class Named Peking University's Model Class and Beijing's Advanced Class Collective](https://mp.weixin.qq.com/s/VkT3ken-6FZwmqfNRQjRLA) 🏅👏
 - **Feb. 2024:** A Rewarding Time in Manchester –[ A Short-Term Exchange Program Experience](https://mp.weixin.qq.com/s/cE9_UJY4ODtZSScU6eX9eA) ✈️🎓
 - **Feb. 2024:**  Complete the GAUC & AUA [2023 Climate X Leadership Training Program](https://climatexleadership.gauc.net/) and Be Recognized as a Climate X Youth Pioneer 🌍🌱
