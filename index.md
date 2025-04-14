@@ -32,6 +32,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 
 ## News and Updates
 
+- **Apr. 2025:** So honored to be chosen as an Outstanding Peer Counselor! Ready to give my best this new semester and help fellow students thrive 🌟🏆
 - **Apr. 2025:** Beyond Boundary Program-[HAPPY HOUR#3](https://mp.weixin.qq.com/s/L1_yDpQcEFiSdjIjz7rSlQ)😊🎶
 - **Mar. 2025:** Our Peking University Rural Ecological Practice Team in Wangdu, Baoding, Hebei, Wins the Outstanding Project Award 🌿🏆
 - **Feb. 2025:** Successfully completed the 2024 Certifcate Program for International Organization Talents from September 2024 to January 2025 at Peking University.🌍🎓
