@@ -22,6 +22,7 @@ title: Awards
 
 ## **Miscellaneou**s
 
+- 2025: Outstanding Peer Counselor, Office of Student Financial Aid, Peking University
 - 2025: International Organization Talents (for 13 undergraduate students), Peking University
 - 2024: Outstanding scientific research award, Peking University
 - 2024: Climate x Youth Pioneer, Global Alliance of Universities on Climate
