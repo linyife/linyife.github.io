@@ -19,14 +19,12 @@ This project evaluates the potential for renewable energy based on the meteorolo
 
 ## Early Project
 
-- **Impact Assessment of Japanese Radioactive Wastewater Discharge on Ecosystem Service Functions**
+- ```
+  <!--**Impact Assessment of Japanese Radioactive Wastewater Discharge on Ecosystem Service Functions**Environmental Science Course Assignment — Independently Completed  
+  *September 2023 - October 2023*This study evaluates the impact of Japanese radioactive wastewater discharge on global/marine ecosystem service functions. It includes discussions on the background of radioactive wastewater discharge (events/water quality characteristics-data), analysis of affected ecosystem service functions, calculation of impaired ecosystem service functions, and policy and action recommendations for reducing losses.-->
+  ```
 
-Environmental Science Course Assignment — Independently Completed  
-*September 2023 - October 2023*
-
-This study evaluates the impact of Japanese radioactive wastewater discharge on global/marine ecosystem service functions. It includes discussions on the background of radioactive wastewater discharge (events/water quality characteristics-data), analysis of affected ecosystem service functions, calculation of impaired ecosystem service functions, and policy and action recommendations for reducing losses.
-
-- **Comprehensive Analysis of Rare Earth Industry Chain Pollution in Ganzhou City: A Case Study Based on the Difference-in-Differences (DID) Results of Enterprise Behavior under Sino-US Trade Impact**
+**Comprehensive Analysis of Rare Earth Industry Chain Pollution in Ganzhou City: A Case Study Based on the Difference-in-Differences (DID) Results of Enterprise Behavior under Sino-US Trade Impact**
 
 Challenge Cup Interdisciplinary Project — Collaboratively Completed  
 *November 2023 - April 2024*
