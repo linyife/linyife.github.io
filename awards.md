@@ -13,6 +13,11 @@ title: Awards
 - 2023: Zheng Geru Outstanding Student Scholarship, Peking University (¥10000)
 - 2023: National Encouragement Scholarship, Ministry of Education (¥5000)<br>
 
+## Awards
+
+- 2024: Outstanding scientific research award, Peking University
+- 2023: Merit Student, Peking University
+
 ## Competition
 
 - 2024: The second prize of the 32nd "Challenge Cup" interdisciplinary students' extracurricular academic and scientific works competition, Peking University
@@ -24,11 +29,9 @@ title: Awards
 
 - 2025: Outstanding Peer Counselor, Office of Student Financial Aid, Peking University
 - 2025: International Organization Talents (for 13 undergraduate students), Peking University
-- 2024: Outstanding scientific research award, Peking University
 - 2024: Climate x Youth Pioneer, Global Alliance of Universities on Climate
 - 2024: Outstanding Youth Volunteer of Peking University, Peking University
 - 2024: Outstanding Trainee of the Student Backbone Training School, Peking University Students' Union
-- 2023: Merit Student, Peking University
 - 2023: Climate x Youth Pioneer, Global Alliance of Universities on Climate
 - 2023: Outstanding Trainee in Undergraduate Military Training, Peking University
 - Outstanding Volunteer, four times
