@@ -15,7 +15,7 @@ title: Awards
 
 ## Awards
 
-- 2024: Outstanding scientific research award, Peking University
+- 2024: Award for Scientific Research, Peking University
 - 2023: Merit Student, Peking University
 
 ## Competition
