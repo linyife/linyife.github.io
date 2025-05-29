@@ -22,6 +22,7 @@ title: Awards
 
 - 2024: The second prize of the 32nd "Challenge Cup" interdisciplinary students' extracurricular academic and scientific works competition, Peking University
 - 2024: The first prize of the Third "Carbon Seeker" Double Carbon Research Project, Guanghua School of Management, Peking University
+- 2024: The first prize of "Materials+" Innovation Practice Final Presentation, Peking University Summer School
 - 2023: The third Prize in the Peking University Campus Culture Interpretation Contest, Peking University
 - 2023: Outstanding Thesis, the Western Art History Course at Peking University<br>
 
