@@ -20,6 +20,7 @@ title: Awards
 
 ## Competition
 
+- 2025: The excellent prize of the 33rd "Challenge Cup" special contribution track students' extracurricular academic and scientific works competition, Peking University
 - 2024: The second prize of the 32nd "Challenge Cup" interdisciplinary students' extracurricular academic and scientific works competition, Peking University
 - 2024: The first prize of the Third "Carbon Seeker" Double Carbon Research Project, Guanghua School of Management, Peking University
 - 2024: The first prize of "Materials+" Innovation Practice Final Presentation, Peking University Summer School
