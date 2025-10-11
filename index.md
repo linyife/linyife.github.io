@@ -82,3 +82,11 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 - **Aug. 2022:** Very honored to be featured in this [interview](https://mp.weixin.qq.com/s/_g6VFwISxkfu7KxHq5DDWg) from Jiangxi Admissions Group, PKU! 😁
 
 <br>
+
+## Leave a Message 欢迎留言
+
+<br>
+
+{% include disqus.html %} 
+
+<br>
