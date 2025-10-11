@@ -8,6 +8,7 @@ title: Awards
 
 ## Scholarships
 
+- 2025: The Okamatsu Scholarship, Peking University (¥5000)
 - 2024: The Third Prize Scholarship, Peking University (¥5000)
 - 2024: Scholarship for the short communication program to the University of Manchester (for 10 students), College of Environmental Sciences and Engineering, Peking University (¥10000)
 - 2023: Zheng Geru Outstanding Student Scholarship, Peking University (¥10000)
@@ -15,6 +16,7 @@ title: Awards
 
 ## Awards
 
+- 2025: Pacemaker to Merit Student, Peking University
 - 2024: Award for Scientific Research, Peking University
 - 2023: Merit Student, Peking University
 
@@ -36,6 +38,6 @@ title: Awards
 - 2024: Outstanding Trainee of the Student Backbone Training School, Peking University Students' Union
 - 2023: Climate x Youth Pioneer, Global Alliance of Universities on Climate
 - 2023: Outstanding Trainee in Undergraduate Military Training, Peking University
-- Outstanding Volunteer, four times
+- Outstanding Volunteer, six times
 
 <br>
