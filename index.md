@@ -14,7 +14,7 @@ I am an undergraduate student in the [**College of Environmental Sciences and En
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yflin@stu.pku.end.cn<br>
 
-**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**<br>
+**<font color="#990000">I will be joining the School of Environment at Tsinghua University in the Fall of 2026 as a Ph.D. candidate. Under the supervision of Professor Bin Zhao, I will be part of the Air Pollution and Climate Research Team, focusing on the numerical modeling of atmospheric aerosols.</font>**<br>
 
 ---
 
@@ -32,6 +32,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 
 ## News and Updates
 
+- **Sep. 2024:** Happy to Have [Won 6th Place again in High Jump at the School Sports Meet]([微信公众平台](https://mp.weixin.qq.com/s/ujHkr_WE1i4H6V2efiwRBg)) 🏅🙌
 - **Aug. 2025:**  [Officially wrapped up my summer studies at UC Berkeley! ](https://mp.weixin.qq.com/s/hJEUWyLPZ1eZBfw6SN0tAw)Huge thanks to the professors and classmates who made this experience so rewarding. ✈️🎓
 - **Apr. 2025:** So honored to be chosen as an Outstanding Peer Counselor! Ready to give my best this new semester and help fellow students thrive 🌟🏆
 - **Apr. 2025:** Beyond Boundary Program-[HAPPY HOUR#3](https://mp.weixin.qq.com/s/L1_yDpQcEFiSdjIjz7rSlQ)😊🎶
