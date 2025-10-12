@@ -11,8 +11,7 @@ title: Awards
 - 2025: The Okamatsu Scholarship, Peking University (¥5000)
 - 2024: The Third Prize Scholarship, Peking University (¥5000)
 - 2024: Scholarship for the short communication program to the University of Manchester (for 10 students), College of Environmental Sciences and Engineering, Peking University (¥10000)
-- 2023: Zheng Geru Outstanding Student Scholarship, Peking University (¥10000)
-- 2023: National Encouragement Scholarship, Ministry of Education (¥5000)<br>
+- 2023: Zheng Geru Outstanding Student Scholarship, Peking University (¥10000)<br>
 
 ## Awards
 
