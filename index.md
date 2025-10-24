@@ -35,7 +35,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 ## News and Updates
 
 - **Sep. 2024:** Happy to Have [Won 6th Place again in High Jump at the School Sports Meet]([微信公众平台](https://mp.weixin.qq.com/s/ujHkr_WE1i4H6V2efiwRBg)) 🏅🙌
-- **Aug. 2025: **Pleased to share a new project milestone:[ "Magic City's Carbon Secret: The Shanghai Carbon Story That Connects Us All" ](https://mp.weixin.qq.com/s/HUGuUneUA57gTmX7oNYQEg), a book I contributed to as an editorial board member, is now published. 📖✨
+- **Aug. 2025:** Pleased to share a new project milestone:[ "Magic City's Carbon Secret: The Shanghai Carbon Story That Connects Us All" ](https://mp.weixin.qq.com/s/HUGuUneUA57gTmX7oNYQEg), a book I contributed to as an editorial board member, is now published. 📖✨
 -  **Aug. 2025:** [Officially wrapped up my summer studies at UC Berkeley! ](https://mp.weixin.qq.com/s/hJEUWyLPZ1eZBfw6SN0tAw)Huge thanks to the professors and classmates who made this experience so rewarding. ✈️🎓
 - **Apr. 2025:** So honored to be chosen as an Outstanding Peer Counselor! Ready to give my best this new semester and help fellow students thrive 🌟🏆
 - **Apr. 2025:** Beyond Boundary Program-[HAPPY HOUR#3](https://mp.weixin.qq.com/s/L1_yDpQcEFiSdjIjz7rSlQ)😊🎶
