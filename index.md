@@ -12,6 +12,8 @@ I am an undergraduate student in the [**College of Environmental Sciences and En
 
  I am also pursuing a double degree in **Energy and Environmental Systems Engineering (B.Eng.)** at the [**College of Engineering**](https://en.coe.pku.edu.cn/), **Peking University**.<br>
 
+For more details, please refer to my [resume](https://linyife.github.io/file/个人简历-林奕妃.pdf)<br>
+
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yflin@stu.pku.end.cn<br>
 
 **<font color="#990000">I will be joining the School of Environment at Tsinghua University in the Fall of 2026 as a Ph.D. candidate. Under the supervision of Professor Bin Zhao, I will be part of the Air Pollution and Climate Research Team, focusing on the numerical modeling of atmospheric aerosols.</font>**<br>
