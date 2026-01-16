@@ -4,10 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: October 11, 2025
+> Update: January 16, 2026
 
 ## Scholarships
 
+- 2025: Peking University Tan Siu Lin Oversea Exchange Endowment For Undergraduates, Peking University (¥10000)
 - 2025: The Okamatsu Scholarship, Peking University (¥5000)
 - 2024: The Third Prize Scholarship, Peking University (¥5000)
 - 2024: Scholarship for the short communication program to the University of Manchester (for 10 students), College of Environmental Sciences and Engineering, Peking University (¥10000)
