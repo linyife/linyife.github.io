@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - Atmospheric Aerosol Modeling
 - Air Quality and Climate Change
-- Environmental-Economic-Energy Systems Modeling
+- Environmental-Economic-Energy Systems Modeling<br>
 
 My current research addresses a critical challenge in atmospheric science: the significant uncertainties in simulating atmospheric particulate matter (PM) within state-of-the-art air quality models. These inaccuracies often stem from an inadequate representation of the complex, nonlinear feedback effects among the various processes governing aerosol formation and evolution, such as new particle formation, gas-particle partitioning, chemical aging, and deposition.<br>
 
@@ -36,7 +36,7 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 
 ## News and Updates
 
-- **Jan. 2026:** Honored to be featured in the college interview: [“The Innovative Spark of Interdisciplinary Research”: A Conversation with Lin Yifei, Head of the Award-Winning “Challenge Cup” Project]([环院·实践 | “学科交叉的创新光点”：对话挑战杯获奖项目负责人林奕妃](https://mp.weixin.qq.com/s/uy2zOTGiQX-fr5MfOY6ToQ)) 🌍🎤
+- **Jan. 2026:** Honored to be featured in the college interview: [“The Innovative Spark of Interdisciplinary Research”: A Conversation with Lin Yifei, Head of the Award-Winning “Challenge Cup” Project](https://mp.weixin.qq.com/s/uy2zOTGiQX-fr5MfOY6ToQ)🌍🎤
 - **Sep. 2024:** Happy to Have [Won 6th Place again in High Jump at the School Sports Meet]([微信公众平台](https://mp.weixin.qq.com/s/ujHkr_WE1i4H6V2efiwRBg)) 🏅🙌
 - **Aug. 2025:** Pleased to share a new project milestone:[ "Magic City's Carbon Secret: The Shanghai Carbon Story That Connects Us All" ](https://mp.weixin.qq.com/s/HUGuUneUA57gTmX7oNYQEg), a book I contributed to as an editorial board member, is now published. 📖✨
 -  **Aug. 2025:** [Officially wrapped up my summer studies at UC Berkeley! ](https://mp.weixin.qq.com/s/hJEUWyLPZ1eZBfw6SN0tAw)Huge thanks to the professors and classmates who made this experience so rewarding. ✈️🎓
