@@ -22,18 +22,21 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-- Greenhouse Gas Mitigation
+- Atmospheric Aerosol Modeling
+- Air Quality and Climate Change
 - Environmental-Economic-Energy Systems Modeling
-- Feasibility Analysis of Net-Zero Emissions
 
-My current research focuses on the feasibility analysis of achieving net-zero emissions in the Qinghai-Tibet Plateau, a region of critical ecological and climatic significance.  With a dual degree in Environmental Science and Energy & Environmental Systems Engineering, I combine problem-driven environmental research with technology-driven engineering solutions to address this complex challenge.<br>
+My current research addresses a critical challenge in atmospheric science: the significant uncertainties in simulating atmospheric particulate matter (PM) within state-of-the-art air quality models. These inaccuracies often stem from an inadequate representation of the complex, nonlinear feedback effects among the various processes governing aerosol formation and evolution, such as new particle formation, gas-particle partitioning, chemical aging, and deposition.<br>
 
-I am committed to becoming a versatile researcher who can contribute to innovative solutions for global sustainability.  My ultimate goal is to use my skills and knowledge to promote well-being and a sustainable future, starting with the fragile yet vital ecosystems of the Qinghai-Tibet Plateau.<br>
+My undergraduate thesis, "Simulation and Assessment of Interactive Effects in the Formation and Transformation of Atmospheric Particulate Matter Components," focuses specifically on this gap. I am working to implement and evaluate these crucial feedback mechanisms—which are mediated by the dynamic evolution of key particle properties like phase state, mixing state, hygroscopicity, and fine-particle size distribution—within a newly developed, integrated aerosol process model. Through controlled sensitivity experiments, my project aims to quantify the impact of these interactions on PM component concentrations and properties, thereby improving the model's predictive capabilities for heavily polluted regions like Beijing-Tianjin-Hebei.<br>
+
+I am committed to becoming a versatile researcher who can contribute to innovative solutions for global sustainability. My ultimate goal is to use my skills in numerical modeling and systems analysis to advance our understanding of air pollution and its climatic impacts.<br>
 
 ---
 
 ## News and Updates
 
+- **Jan. 2026:** Honored to be featured in the college interview: [“The Innovative Spark of Interdisciplinary Research”: A Conversation with Lin Yifei, Head of the Award-Winning “Challenge Cup” Project]([环院·实践 | “学科交叉的创新光点”：对话挑战杯获奖项目负责人林奕妃](https://mp.weixin.qq.com/s/uy2zOTGiQX-fr5MfOY6ToQ)) 🌍🎤
 - **Sep. 2024:** Happy to Have [Won 6th Place again in High Jump at the School Sports Meet]([微信公众平台](https://mp.weixin.qq.com/s/ujHkr_WE1i4H6V2efiwRBg)) 🏅🙌
 - **Aug. 2025:** Pleased to share a new project milestone:[ "Magic City's Carbon Secret: The Shanghai Carbon Story That Connects Us All" ](https://mp.weixin.qq.com/s/HUGuUneUA57gTmX7oNYQEg), a book I contributed to as an editorial board member, is now published. 📖✨
 -  **Aug. 2025:** [Officially wrapped up my summer studies at UC Berkeley! ](https://mp.weixin.qq.com/s/hJEUWyLPZ1eZBfw6SN0tAw)Huge thanks to the professors and classmates who made this experience so rewarding. ✈️🎓
