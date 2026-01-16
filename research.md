@@ -12,7 +12,7 @@ title: Research
 
   *September 2025 - Now*
 
-This project aims to address the significant biases in simulating key components of atmospheric particulate matter by mainstream air quality models. The core issue lies in the models' inadequate representation of the feedback effects among various processes in the formation and evolution of aerosols, such as new particle formation, inorganic and organic aerosol growth, and dry/wet deposition. These interactions are mediated by key particle properties like phase state, mixing state, hygroscopicity, and size distribution, which are often overlooked. This study will enhance the understanding of complex aerosol chemistry, provide support for the development of integrated atmospheric chemistry transport models, and ultimately contribute to more accurate air pollution forecasting and effective control strategies.
+This project aims to meet the significant biases in simulating key components of atmospheric particulate matter by mainstream air quality models. The core issue lies in the models' inadequate representation of the feedback effects among various processes in the formation and evolution of aerosols, such as new particle formation, inorganic and organic aerosol growth, and dry/wet deposition. These interactions are mediated by key particle properties like phase state, mixing state, hygroscopicity, and size distribution, which are often overlooked. This study will enhance the understanding of complex aerosol chemistry, provide support for the development of integrated atmospheric chemistry transport models, and ultimately contribute to more accurate air pollution forecasting and effective control strategies.
 
 <br>
 
