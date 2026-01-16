@@ -6,13 +6,13 @@ title: Research
 
 ## Ongoing Project
 
-- **Feasibility analysis of achieving net-zero emissions in Qinghai-Tibet Plateau**
+- **Improved Simulation and Assessment of an Integrated Model for the Formation and Transformation of Atmospheric Particulate Matter**
 
-  College of Engineering Undergraduate Research Project — Independently Completed
+  Undergraduate Thesis Project
 
-  *September 2024 - Now*
+  *September 2025 - Now*
 
-This project evaluates the potential for renewable energy based on the meteorological conditions of the Qinghai-Tibet Plateau. It constructs a mathematical model with the investment decision cost of the entire natural resources as the objective function, optimizes the energy structure, and forms a zero-carbon energy planning scheme for the Qinghai-Tibet Plateau. Additionally, it analyzes the environmental-economic-health effects of the zero-carbon planning.
+This project aims to address the significant biases in simulating key components of atmospheric particulate matter by mainstream air quality models. The core issue lies in the models' inadequate representation of the feedback effects among various processes in the formation and evolution of aerosols, such as new particle formation, inorganic and organic aerosol growth, and dry/wet deposition. These interactions are mediated by key particle properties like phase state, mixing state, hygroscopicity, and size distribution, which are often overlooked. This study will enhance the understanding of complex aerosol chemistry, provide support for the development of integrated atmospheric chemistry transport models, and ultimately contribute to more accurate air pollution forecasting and effective control strategies.
 
 <br>
 
@@ -25,6 +25,8 @@ This project evaluates the potential for renewable energy based on the meteorolo
   Environmental Science Course Assignment — Independently Completed  
 
   *September 2023 - October 2023*
+
+This project evaluates the potential for renewable energy based on the meteorological conditions of the Qinghai-Tibet Plateau. It constructs a mathematical model with the investment decision cost of the entire natural resources as the objective function, optimizes the energy structure, and forms a zero-carbon energy planning scheme for the Qinghai-Tibet Plateau. Additionally, it analyzes the environmental-economic-health effects of the zero-carbon planning.
 
 This study evaluates the impact of Japanese radioactive wastewater discharge on global/marine ecosystem service functions. It includes discussions on the background of radioactive wastewater discharge (events/water quality characteristics-data), analysis of affected ecosystem service functions, calculation of impaired ecosystem service functions, and policy and action recommendations for reducing losses.
 
@@ -67,5 +69,13 @@ Responsible for overlying water filtration/dilution, TOC measurement, heavy meta
 This research primarily analyzes the changes in air pollutants in Baoding's atmosphere following the implementation of the clean heating policy, as well as variations in indoor air pollutant concentrations in rural households due to individual behavioral differences. It involves assessing the regional environmental governance effects brought about by policy implementation and analyzing indoor air pollution resulting from farmers' behavioral patterns.
 
 Responsibilities included conducting long-term time-series analysis of air quality monitoring data in rural Baoding, evaluating the effectiveness of the "coal-to-gas" policy using breakpoint and cumulative effect analyses, performing correlation analysis on influencing factors of Baoding's atmospheric environment, and discussing the short-term and long-term impacts of policy implementation.
+
+- **Feasibility analysis of achieving net-zero emissions in Qinghai-Tibet Plateau**
+
+  College of Engineering Undergraduate Research Project — Independently Completed
+
+  *September 2024 - June 2025*
+
+This project evaluates the potential for renewable energy based on the meteorological conditions of the Qinghai-Tibet Plateau. It constructs a mathematical model with the investment decision cost of the entire natural resources as the objective function, optimizes the energy structure, and forms a zero-carbon energy planning scheme for the Qinghai-Tibet Plateau. Additionally, it analyzes the environmental-economic-health effects of the zero-carbon planning.
 
 ---
