@@ -4,10 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: January 16, 2026
+> Update: March 18, 2026
 
 ## Scholarships
 
+- 2026: Volunteer Scholarship, China Clean Air Policy Partnership (CCAPP)
 - 2025: Peking University Tan Siu Lin Oversea Exchange Endowment For Undergraduates, Peking University (¥10000)
 - 2025: The Okamatsu Scholarship, Peking University (¥5000)
 - 2024: The Third Prize Scholarship, Peking University (¥5000)
@@ -33,6 +34,8 @@ title: Awards
 
 ## **Miscellaneou**s
 
+- 2025: Excellent Essay, "Understanding China" Activity, Ministry of Education's Committee on Caring for the Next Generation
+- 2025: Top 100 Outstanding Youth Volunteers of Peking University, Peking University
 - 2025: Outstanding Peer Counselor, Office of Student Financial Aid, Peking University
 - 2025: International Organization Talents (for 13 undergraduate students), Peking University
 - 2024: Climate x Youth Pioneer, Global Alliance of Universities on Climate
