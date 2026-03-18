@@ -36,8 +36,11 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 
 ## News and Updates
 
+- **Mar. 2026:** Thrilled to receive the 2025 Volunteer Scholarship from the China Clean Air Policy Partnership (CCAPP) . Thankful for the recognition of my contributions to improving air quality and tackling climate change in China. Looking forward to continuing this vital work. 🌍🌱
+- **Mar. 2026:** Honored to be recognized as one of the "Top 100 Outstanding Youth Volunteers" at Peking University. Grateful for the meaningful opportunities to serve the community and contribute to a better campus. 🤝💙
 - **Jan. 2026:** Honored to be featured in the college interview: [“The Innovative Spark of Interdisciplinary Research”: A Conversation with Lin Yifei, Head of the Award-Winning “Challenge Cup” Project](https://mp.weixin.qq.com/s/uy2zOTGiQX-fr5MfOY6ToQ)🌍🎤
-- **Sep. 2024:** Happy to Have [Won 6th Place again in High Jump at the School Sports Meet]([微信公众平台](https://mp.weixin.qq.com/s/ujHkr_WE1i4H6V2efiwRBg)) 🏅🙌
+- **Nov. 2025:** Grateful that our oral history interview with Professor Song Yuqin (Boya Silver Age Mentoring Program) was selected as an "Excellent Essay" for the "Understanding China" 2025 activity at Peking University. [Honored to document and share the inspiring stories of our senior faculty.](https://mp.weixin.qq.com/s/tj7-AkhjdlsaiQZ-Qnar3Q?scene=1) 🏆📜
+- **Sep. 2025:** Happy to Have [Won 6th Place again in High Jump at the School Sports Meet]([微信公众平台](https://mp.weixin.qq.com/s/ujHkr_WE1i4H6V2efiwRBg)) 🏅🙌
 - **Aug. 2025:** Pleased to share a new project milestone:[ "Magic City's Carbon Secret: The Shanghai Carbon Story That Connects Us All" ](https://mp.weixin.qq.com/s/HUGuUneUA57gTmX7oNYQEg), a book I contributed to as an editorial board member, is now published. 📖✨
 -  **Aug. 2025:** [Officially wrapped up my summer studies at UC Berkeley! ](https://mp.weixin.qq.com/s/hJEUWyLPZ1eZBfw6SN0tAw)Huge thanks to the professors and classmates who made this experience so rewarding. ✈️🎓
 - **Apr. 2025:** So honored to be chosen as an Outstanding Peer Counselor! Ready to give my best this new semester and help fellow students thrive 🌟🏆
