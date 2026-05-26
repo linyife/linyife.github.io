@@ -8,7 +8,8 @@ title: Awards
 
 ## Scholarships
 
-- 2026: Volunteer Scholarship, China Clean Air Policy Partnership (CCAPP)
+- 2026: The "Weiming Reading Star" Award of Peking University, Peking University (¥5000)
+- 2026: Volunteer Scholarship, China Clean Air Policy Partnership (CCAPP)(¥1000)
 - 2025: Peking University Tan Siu Lin Oversea Exchange Endowment For Undergraduates, Peking University (¥10000)
 - 2025: The Okamatsu Scholarship, Peking University (¥5000)
 - 2024: The Third Prize Scholarship, Peking University (¥5000)
@@ -17,6 +18,7 @@ title: Awards
 
 ## Awards
 
+- 2026: Outstanding Graduate, Peking University
 - 2025: Pacemaker to Merit Student, Peking University
 - 2024: Award for Scientific Research, Peking University
 - 2023: Merit Student, Peking University
