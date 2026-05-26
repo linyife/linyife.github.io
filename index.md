@@ -16,7 +16,7 @@ For more details, please refer to my [resume](https://linyife.github.io/file/个
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yflin@stu.pku.end.cn<br>
 
-**<font color="#990000">I will be joining the School of Environment at Tsinghua University in the Fall of 2026 as a Ph.D. candidate. Under the supervision of Professor Bin Zhao, I will be part of the Air Pollution and Climate Research Team, focusing on the numerical modeling of atmospheric aerosols.</font>**<br>
+**<font color="#990000">I will join the School of Environment at Tsinghua University in the Fall of 2026 as a Ph.D. candidate. Under the supervision of Professor Bin Zhao, I will be part of the Air Pollution and Climate Research Team, focusing on the numerical modeling of atmospheric aerosols.</font>**<br>
 
 ---
 
@@ -36,6 +36,9 @@ I am committed to becoming a versatile researcher who can contribute to innovati
 
 ## News and Updates
 
+- **May 2026: **Named Outstanding Graduate of Peking University. Humbled and proud to have my academic and extracurricular efforts recognized as I close this meaningful chapter. 💙🎉
+- **May 2026: **Successfully defended my graduation thesis — a fulfilling milestone marking the culmination of years of hard work, curiosity, and perseverance. Grateful for my advisors and peers along the way. 🎓📝
+- **May 2026:** Honored to receive the ["Weiming Reading Star" Award of Peking University](https://mp.weixin.qq.com/s/eAdCcHpmXdyUuwI5zC1kJg). Delighted to be recognized for my passion for reading and to have the opportunity to share my insights with the campus community. 📚✨
 - **Mar. 2026:** Thrilled to receive the 2025 Volunteer Scholarship from the China Clean Air Policy Partnership (CCAPP) . Thankful for the recognition of my contributions to improving air quality and tackling climate change in China. Looking forward to continuing this vital work. 🌍🌱
 - **Mar. 2026:** Honored to be recognized as one of the "Top 100 Outstanding Youth Volunteers" at Peking University. Grateful for the meaningful opportunities to serve the community and contribute to a better campus. 🤝💙
 - **Jan. 2026:** Honored to be featured in the college interview: [“The Innovative Spark of Interdisciplinary Research”: A Conversation with Lin Yifei, Head of the Award-Winning “Challenge Cup” Project](https://mp.weixin.qq.com/s/uy2zOTGiQX-fr5MfOY6ToQ)🌍🎤
