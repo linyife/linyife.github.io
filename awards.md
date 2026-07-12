@@ -36,6 +36,7 @@ title: Awards
 
 ## **Miscellaneou**s
 
+- 2026: Outstanding Peer Counselor, Student Financial Aid Center and Student Service Corps, Peking University
 - 2025: Excellent Essay, "Understanding China" Activity, Ministry of Education's Committee on Caring for the Next Generation
 - 2025: Top 100 Outstanding Youth Volunteers of Peking University, Peking University
 - 2025: Outstanding Peer Counselor, Office of Student Financial Aid, Peking University
@@ -45,6 +46,6 @@ title: Awards
 - 2024: Outstanding Trainee of the Student Backbone Training School, Peking University Students' Union
 - 2023: Climate x Youth Pioneer, Global Alliance of Universities on Climate
 - 2023: Outstanding Trainee in Undergraduate Military Training, Peking University
-- Outstanding Volunteer, six times
+- Outstanding Volunteer, seven times
 
 <br>
