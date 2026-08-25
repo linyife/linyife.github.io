@@ -12,7 +12,7 @@ I am a first-year Ph.D. student at the [**School of Environment**]([School of En
 
 I completed my undergraduate studies at **Peking University** with a double degree: a Bachelor of Science (B.Sc.) in Environmental Science from the  [**College of Environmental Sciences and Engineering**](https://en.cese.pku.edu.cn/) , and a Bachelor of Engineering (B.Eng.) in Energy and Environmental Systems Engineering from the  [**College of Engineering**](https://en.coe.pku.edu.cn/), as a student of the Beyond Boundary Program (BBP).
 
-For more details, please refer to my [resume](https://linyife.github.io/file/个人简历-林奕妃.pdf)
+For more details, please refer to my [resume]()
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yf-lin26@mails.tsinghua.edu.cn
 
