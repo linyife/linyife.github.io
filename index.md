@@ -8,36 +8,37 @@ layout: page
 
 Here is **Yifei Lin (Forwood, 林奕妃)**.<br>
 
-I am an undergraduate student in the [**College of Environmental Sciences and Engineering**](https://en.cese.pku.edu.cn/) at **Peking University**, as well as a student of Beyond Boundary Program (BBP), pursuing a **Bachelor of Science (B.Sc.) in Environmental Science**.<br>
+I am a first-year Ph.D. student at the School of Environment, Tsinghua University, supervised by Professor Bin Zhao in the Air Pollution and Climate Research Team. My doctoral research focuses on the numerical modeling of atmospheric aerosols.
 
- I am also pursuing a double degree in **Energy and Environmental Systems Engineering (B.Eng.)** at the [**College of Engineering**](https://en.coe.pku.edu.cn/), **Peking University**.<br>
+I completed my undergraduate studies at **Peking University** with a double degree: a Bachelor of Science (B.Sc.) in Environmental Science from the  [**College of Environmental Sciences and Engineering**](https://en.cese.pku.edu.cn/) , and a Bachelor of Engineering (B.Eng.) in Energy and Environmental Systems Engineering from the  [**College of Engineering**](https://en.coe.pku.edu.cn/), as a student of the Beyond Boundary Program (BBP).
 
-For more details, please refer to my [resume](https://linyife.github.io/file/个人简历-林奕妃.pdf)<br>
+For more details, please refer to my [resume](https://linyife.github.io/file/个人简历-林奕妃.pdf)
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yflin@stu.pku.end.cn<br>
-
-**<font color="#990000">I will join the School of Environment at Tsinghua University in the Fall of 2026 as a Ph.D. candidate. Under the supervision of Professor Bin Zhao, I will be part of the Air Pollution and Climate Research Team, focusing on the numerical modeling of atmospheric aerosols.</font>**<br>
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at yf-lin26@mails.tsinghua.edu.cn
 
 ---
 
 ## Research Interests
 
 - Atmospheric Aerosol Modeling
-- Air Quality and Climate Change
-- Environmental-Economic-Energy Systems Modeling<br>
+- Aerosol Formation and Evolution
+- Aerosol-Cloud Interactions
+- Development and Application of Atmospheric Chemistry Models<br>
 
-My current research addresses a critical challenge in atmospheric science: the significant uncertainties in simulating atmospheric particulate matter (PM) within state-of-the-art air quality models. These inaccuracies often stem from an inadequate representation of the complex, nonlinear feedback effects among the various processes governing aerosol formation and evolution, such as new particle formation, gas-particle partitioning, chemical aging, and deposition.<br>
+My current research focuses on reducing the uncertainties in simulating atmospheric particulate matter (PM) within air quality models. These uncertainties largely arise from inadequate representations of complex, nonlinear feedback effects governing aerosol formation and evolution — including new particle formation, gas-particle partitioning, chemical aging, and deposition.<br>
 
-My undergraduate thesis, "Simulation and Assessment of Interactive Effects in the Formation and Transformation of Atmospheric Particulate Matter Components," focuses specifically on this gap. I am working to implement and evaluate these crucial feedback mechanisms—which are mediated by the dynamic evolution of key particle properties like phase state, mixing state, hygroscopicity, and fine-particle size distribution—within a newly developed, integrated aerosol process model. Through controlled sensitivity experiments, my project aims to quantify the impact of these interactions on PM component concentrations and properties, thereby improving the model's predictive capabilities for heavily polluted regions like Beijing-Tianjin-Hebei.<br>
+Building on my undergraduate thesis, *"Consistency Assessment, Optimization, and Application of an Integrated Model for the Formation and Transformation of Atmospheric Particulate Matter"* , I am now working to implement and evaluate these feedback mechanisms — mediated by the dynamic evolution of particle properties such as phase state, mixing state, hygroscopicity, and size distribution — within integrated aerosol process models. Through sensitivity experiments, my research aims to quantify the impact of these interactions on PM concentrations and properties, improving predictive capabilities for heavily polluted regions.<br>
 
-I am committed to becoming a versatile researcher who can contribute to innovative solutions for global sustainability. My ultimate goal is to use my skills in numerical modeling and systems analysis to advance our understanding of air pollution and its climatic impacts.<br>
+My ultimate goal is to advance the understanding of air pollution and its climatic impacts through numerical modeling, contributing to science-based solutions for global sustainability.<br>
 
 ---
 
 ## News and Updates
 
-- **May 2026: **Named Outstanding Graduate of Peking University. Humbled and proud to have my academic and extracurricular efforts recognized as I close this meaningful chapter. 💙🎉
-- **May 2026: **Successfully defended my graduation thesis — a fulfilling milestone marking the culmination of years of hard work, curiosity, and perseverance. Grateful for my advisors and peers along the way. 🎓📝
+- **Aug 2026**: Enrolled as a Ph.D. student at Tsinghua University and participated in the 20th Graduate Student Leadership Training Program. Excited for the new chapter ahead! 💜✨
+-  **Jul 2026**: Graduated from Peking University with a double degree in Environmental Science and Energy and Environmental Systems Engineering. Honored to [share my undergraduate story at the graduation ceremony as a student representative]([青春未央，山海可期—环境科学与工程学院2026年毕业典礼](https://mp.weixin.qq.com/s/KaHxzmoz4mf98R9XUtjPmQ)). 🎉🎉
+-  **May 2026: ** Named Outstanding Graduate of Peking University. Humbled and proud to have my academic and extracurricular efforts recognized as I close this meaningful chapter. 💙🎉
+-  **May 2026: ** Successfully defended my graduation thesis — a fulfilling milestone marking the culmination of years of hard work, curiosity, and perseverance. Grateful for my advisors and peers along the way. 🎓📝
 - **May 2026:** Honored to receive the ["Weiming Reading Star" Award of Peking University](https://mp.weixin.qq.com/s/eAdCcHpmXdyUuwI5zC1kJg). Delighted to be recognized for my passion for reading and to have the opportunity to share my insights with the campus community. 📚✨
 - **Mar. 2026:** Thrilled to receive the 2025 Volunteer Scholarship from the China Clean Air Policy Partnership (CCAPP) . Thankful for the recognition of my contributions to improving air quality and tackling climate change in China. Looking forward to continuing this vital work. 🌍🌱
 - **Mar. 2026:** Honored to be recognized as one of the "Top 100 Outstanding Youth Volunteers" at Peking University. Grateful for the meaningful opportunities to serve the community and contribute to a better campus. 🤝💙
