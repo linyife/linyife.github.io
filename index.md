@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://linyife.github.io/linyifei.jpg" class="floatpic">
 
-Here is **Yifei Lin (Forwood, 林奕妃)**.<br>
+Here is **Yifei Lin (Forwood, 林奕妃)**.
 
-I am a first-year Ph.D. student at the School of Environment, Tsinghua University, supervised by Professor Bin Zhao in the Air Pollution and Climate Research Team. My doctoral research focuses on the numerical modeling of atmospheric aerosols.
+I am a first-year Ph.D. student at the [**School of Environment**]([School of Environment](https://www.tsinghua.edu.cn/enven/)), **Tsinghua University**, supervised by Professor Bin Zhao in the Air Pollution and Climate Research Team. My doctoral research focuses on the numerical modeling of atmospheric aerosols.
 
 I completed my undergraduate studies at **Peking University** with a double degree: a Bachelor of Science (B.Sc.) in Environmental Science from the  [**College of Environmental Sciences and Engineering**](https://en.cese.pku.edu.cn/) , and a Bachelor of Engineering (B.Eng.) in Energy and Environmental Systems Engineering from the  [**College of Engineering**](https://en.coe.pku.edu.cn/), as a student of the Beyond Boundary Program (BBP).
 
